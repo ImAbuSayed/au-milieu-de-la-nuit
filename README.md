@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/au-milieu-de-la-nuit/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Au Milieu De La Nuit](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/au-milieu-de-la-nuit/) |
+| **Get License** | [License this song: Au Milieu De La Nuit](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/au-milieu-de-la-nuit/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Au milieu de la nuit, l'étincelle prend vie,
+> Ton regard croise le mien, we're dancing in the city,
+> Sous les néons qui brillent, c'est toi que j'ai choisie,
+> Viens plus près de moi, baby, laisse faire la magie.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
